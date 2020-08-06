@@ -2,7 +2,7 @@
 >Analytics Vidya Hackathon
 ### Problem Statement
 The dataset is of a Hosuing Finance Company who wants to automate the loan eligibility process (real time) based on customer detail provided while filling online application form.To automate this process, they have provided a dataset to identify the customers segments that are eligible for loan amount so that they can specifically target these customers. 
-###Dataset
+### Dataset
 The Dataset contains 12 Independent Features and 1 Dependent Feature(Loan_Status) which are described as follows-
 Loan_ID-	Unique Loan ID
 Gender-	Male/ Female
@@ -18,5 +18,5 @@ Credit_History-	credit history meets guidelines
 Property_Area-	Urban/ Semi Urban/ Rural
 Loan_Status-	(Target) Loan approved (Y/N)
 
-###Evaluation Metric
+### Evaluation Metric
 Model performance will be evaluated on the basis of the prediction of loan status and the metric to judge it will be Accuracy.
