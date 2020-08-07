@@ -1,7 +1,7 @@
 # Hackathon-Loan
 >Analytics Vidya Hackathon
 ### Problem Statement
-The dataset is of a Hosuing Finance Company who wants to automate the loan eligibility process (real time) based on customer detail provided while filling online application form.To automate this process, they have provided a dataset to identify the customers segments that are eligible for loan amount so that they can specifically target these customers. 
+The dataset is of a Housing Finance Company who wants to automate the loan eligibility process (real time) based on customer detail provided while filling online application form.To automate this process, they have provided a dataset to identify the customers segments that are eligible for loan amount so that they can specifically target these customers. 
 ### Dataset
 The Dataset contains 12 Independent Features and 1 Dependent Feature(Loan_Status) which are described as follows-
 Loan_ID-	Unique Loan ID
