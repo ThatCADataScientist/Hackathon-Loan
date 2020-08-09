@@ -49,7 +49,7 @@ The Dataset contains 12 Independent Features and 1 Dependent Feature(Loan_Status
   
   4) Evaluation Metric-
    
-     Model performance was evaluated on the basis of the prediction of loan status and the metric to judge it was Accuracy.
+   - Model performance was evaluated on the basis of the prediction of loan status and the metric to judge it was Accuracy.
    
    - Evaluation for Catboost Classifier-
      Test score is  0.8292682926829268,
