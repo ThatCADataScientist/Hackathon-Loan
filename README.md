@@ -8,8 +8,6 @@ This Project addresses the problem of sanctioning loans to potential clients.San
 This Machine Learning algorithm helps in classifying whether an applicant is eligible for a loan. This in turn help in reducing the NPA's and lead to better bottomline. 
 
 # About the Dataset
-Here there are 12 features considered for classifying. However in reality we can add as many as we want. Generally all of this is obtained when the company is performing the KYC of any applicant.
-
 The Dataset contains 12 Independent Features and 1 Dependent Feature(Loan_Status) which are described as follows-
 - Loan_ID-	Unique Loan ID of every applicant.
 - Gender-	Male/ Female of the applicant.
@@ -26,7 +24,9 @@ The Dataset contains 12 Independent Features and 1 Dependent Feature(Loan_Status
 - Loan_Status-	(Target) Loan approved (Y/N).
 
 
-*Note- Here in the dataset the 'Credit_History' feature is just a binary column . However in reality there is a Credit Score which is given by a Credit Rating Agency on the basis of past payment records of a person. This Credit Score provided is an essential factor for providing a loan.
+*Note 1- Here in the dataset the 'Credit_History' feature is just a binary column . However in reality there is a Credit Score which is given by a Credit Rating Agency on the basis of past payment records of a person. This Credit Score provided is an essential factor for providing a loan.
+
+*Note 2-Here there are 12 features considered for classifying. However in reality we can add as many as we want. Generally all of the above information is obtained when the company is performing the KYC of any applicant.
 
 # Steps used during the project
 1) Exploratary Data Analysis- 
