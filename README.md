@@ -25,8 +25,8 @@ Loan_Amount_Term-	Term of loan in months.
 Property_Area-	Urban/ Semi Urban/ Rural.
 Loan_Status-	(Target) Loan approved (Y/N).
 
-*
-Note- Here in the dataset the 'Credit_History' feature is just a binary column . However in reality there is a Credit Score which is given by a Credit Rating Agency on the basis of past payment records of a person. This Credit Score provided is an essential factor for providing a loan.
+
+*Note- Here in the dataset the 'Credit_History' feature is just a binary column . However in reality there is a Credit Score which is given by a Credit Rating Agency on the basis of past payment records of a person. This Credit Score provided is an essential factor for providing a loan.
 
 ### Steps used during the project
 1) Exploratary Data Analysis- 
@@ -50,17 +50,17 @@ Note- Here in the dataset the 'Credit_History' feature is just a binary column .
    Model performance was evaluated on the basis of the prediction of loan status and the metric to judge it was Accuracy.
    
    - Evaluation for Catboost Classifier-
-    Test score is  0.8292682926829268
-    Precision score is 0.822429906542056
-    Recall score is 0.9777777777777777
+    Test score is  0.8292682926829268,
+    Precision score is 0.822429906542056,
+    Recall score is 0.9777777777777777,
     Confusion Matrix is 
       [[14,19]
       [2,88]]
       
    - Evaluation for Ensemble Classifier-
-    Test score is  0.8292682926829268
-    Precision score is 0.8349514563106796
-    Recall score is 0.9555555555555556
+    Test score is  0.8292682926829268,
+    Precision score is 0.8349514563106796,
+    Recall score is 0.9555555555555556,
     Confusion Matrix is 
       [[16,17]
       [4,86]]
