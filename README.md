@@ -1,13 +1,13 @@
 # Hackathon-Loan
 >Analytics Vidya Hackathon
 
-### Project Background
-# Problem Addresssed -
+# Project Background
+### Problem Addresssed -
 This Project addresses the problem of sanctioning loans to potential clients.Sanctioning loans with proper care will help company in preventing Non-Performing Assets(Bad Loans).NPA's are a major concern for the banks as they not only lead to reduction in profits but also are a reason for strict regulations by Central Banks.
-# Solution offered-
+### Solution offered-
 This Machine Learning algorithm helps in classifying whether an applicant is eligible for a loan. This in turn help in reducing the NPA's and lead to better bottomline. 
 
-### About the Dataset
+# About the Dataset
 Here there are 12 features considered for classifying. However in reality we can add as many as we want. Generally all of this is obtained when the company is performing the KYC of any applicant.
 
 The Dataset contains 12 Independent Features and 1 Dependent Feature(Loan_Status) which are described as follows-
@@ -28,7 +28,7 @@ The Dataset contains 12 Independent Features and 1 Dependent Feature(Loan_Status
 
 *Note- Here in the dataset the 'Credit_History' feature is just a binary column . However in reality there is a Credit Score which is given by a Credit Rating Agency on the basis of past payment records of a person. This Credit Score provided is an essential factor for providing a loan.
 
-### Steps used during the project
+# Steps used during the project
 1) Exploratary Data Analysis- 
   - Correlation with Target Variable
   - Countplot to know the Target Variables distribution
