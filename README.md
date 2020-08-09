@@ -2,9 +2,9 @@
 >Analytics Vidya Hackathon
 
 ### Project Background
->Problem Addresssed -
+# Problem Addresssed -
 This Project addresses the problem of sanctioning loans to potential clients.Sanctioning loans with proper care will help company in preventing Non-Performing Assets(Bad Loans).NPA's are a major concern for the banks as they not only lead to reduction in profits but also are a reason for strict regulations by Central Banks.
->Solution offered-
+# Solution offered-
 This Machine Learning algorithm helps in classifying whether an applicant is eligible for a loan. This in turn help in reducing the NPA's and lead to better bottomline. 
 
 ### About the Dataset
