@@ -43,6 +43,7 @@ The Dataset contains 12 Independent Features and 1 Dependent Feature(Loan_Status
   - One hot Encoding on the categorical columns
   
   3) Applying models-
+  - The problem is a Classfication problem where 0 indicates Loan is not Approved and 1 indicates Loan is approved
   - Various models were used on the above data
   - The best two performing were the Catboost Classifier and the Stacking Ensemble Classification Method
   
