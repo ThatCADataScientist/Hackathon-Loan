@@ -48,6 +48,7 @@ The Dataset contains 12 Independent Features and 1 Dependent Feature(Loan_Status
   - The best two performing were the Catboost Classifier and the Stacking Ensemble Classification Method
   
   4) Evaluation Metric-
+   
    Model performance was evaluated on the basis of the prediction of loan status and the metric to judge it was Accuracy.
    
    - Evaluation for Catboost Classifier-
